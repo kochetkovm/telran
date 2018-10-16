@@ -15,3 +15,4 @@ CREATE table `books`(
 INSERT INTO `books` VALUES
 (1, 'Scion of Ikshvaku', 'Amish Tripathi', 06-22-2015, 2);
 
+SELECT * FROM `books`;
